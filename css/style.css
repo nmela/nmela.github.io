@@ -1221,3 +1221,20 @@
 		.grid-demo .row.flush > div:last-child span {
 			border-radius: 0 4px 4px 0;
 		}
+
+
+	/*logo*/
+	.collaboration {
+			margin-top: 3em;
+      margin-left: 6em;
+	}
+
+	img.RCA_logo {
+		width: 55%;
+	margin: 1.2em;
+	margin-left: -15em;
+	}
+
+	.wikimedia_logo {
+		width: 33%;
+	}

@@ -564,7 +564,7 @@
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 60 0 2em 0;
 			width: 100%;
 		}
 
@@ -936,7 +936,7 @@
 	}
 
 		body.landing #header nav a {
-			color: rgba(255, 255, 255, 0.5);
+			color: white;
 		}
 
 	#header {
@@ -1058,6 +1058,7 @@
 		#banner p {
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
+			margin-top: 2em;
 		}
 
 /* Wrapper */
